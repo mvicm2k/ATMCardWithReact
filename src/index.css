@@ -1,0 +1,59 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
+
+.margin-top50 {
+  margin-top: 50px;
+  margin-left: 30px;
+}
+.credit {
+  margin-top: 100px;
+  height: 250px;
+  width: 400px;
+  border: 0;
+  border-radius: 10px;
+  background: url(http://www.psdgraphics.com/file/world-map-background.jpg) no-repeat center center; 
+  background-size: cover;
+  color: white;
+}
+  bank {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  mc {
+    width: 80px;
+    float: right;
+  }
+  card-number {
+    height: 91px;
+    padding-top: 40px;
+    font-weight: 600;
+    font-size: 32px;
+    letter-spacing: 2px;
+  }
+  ccv {
+    height: 24px;
+    float: right;
+    margin-top: -10px;
+    text-transform: uppercase;
+  }
+  name,
+  date{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    height: 25px;
+  }
+  label {
+    color: white;
+  }
